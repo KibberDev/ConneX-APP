@@ -7,4 +7,5 @@ data class Empresa(
     val descripcion: String = "",
     val sector: String = "",
     val ubicacion: String = "",
+    val rol: Rol = Rol.EMPRESA,
 )
