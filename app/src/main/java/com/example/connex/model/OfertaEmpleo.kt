@@ -9,3 +9,5 @@ data class OfertaEmpleo(
     val empresaId: String = "",
     val salario: Double? = null
 )
+
+//Prueba de comentario
